@@ -1,0 +1,84 @@
+Unable to parse original estimate: [0.5]
+Unable to parse estimate: [0.5]
+Unable to parse original estimate: [0.25]
+Unable to parse estimate: [0.25]
+Cannot add value [ [davespeer] ] to CustomField Resolved By in Issue with summary 'InputFilesProcessor : stop writing to StatHat?'. Probably value was in incorrect format
+Cannot add value [ [davespeer] ] to CustomField Resolved By in Issue with summary 'stathat: stop writing from Java EMR'. Probably value was in incorrect format
+Cannot add value [ [timmuir] ] to CustomField Resolved By in Issue with summary 'Max Ad: Dashboard - Poor Tab Rendering'. Probably value was in incorrect format
+Cannot add value [ [davespeer] ] to CustomField Resolved By in Issue with summary 'stackman: bucket copy script does not throw when it fails'. Probably value was in incorrect format
+Cannot add value [ [davespeer] ] to CustomField Resolved By in Issue with summary 'Stackman: fix exception handling in C# cmdlets'. Probably value was in incorrect format
+Cannot add value [ [davespeer] ] to CustomField Resolved By in Issue with summary 'Stackman : consolidate C# cmdlet projects across repos'. Probably value was in incorrect format
+Cannot add value [ [davespeer] ] to CustomField Resolved By in Issue with summary 'consolidate S3 buckets'. Probably value was in incorrect format
+Cannot add value [ [jamesdaniel] ] to CustomField Resolved By in Issue with summary 'Duplicate autoload messages'. Probably value was in incorrect format
+Cannot add value [ [kylehasselbacher] ] to CustomField Resolved By in Issue with summary 'Run BOP in Parallel for each Book Type'. Probably value was in incorrect format
+Cannot add value [ [danielhillis] ] to CustomField Resolved By in Issue with summary 'Fix autoload username problems'. Probably value was in incorrect format
+Cannot add value [ [davespeer] ] to CustomField Resolved By in Issue with summary 'AdStatus2 does lots of work in one script, break out for error tracking'. Probably value was in incorrect format
+Cannot add value [ [davespeer] ] to CustomField Resolved By in Issue with summary 'long term fix for VA / VA upload primary key problem'. Probably value was in incorrect format
+Cannot add value [ [troyhemstreet] ] to CustomField Resolved By in Issue with summary 'Do not show internal errors in production'. Probably value was in incorrect format
+Cannot add value [ [davespeer] ] to CustomField Resolved By in Issue with summary 'Upgrade EMR cluster version'. Probably value was in incorrect format
+Cannot add value [ [timmuir] ] to CustomField Resolved By in Issue with summary 'SF:213095, Group DSR Details page layout shows M4W page'. Probably value was in incorrect format
+Cannot add value [ [troyhemstreet] ] to CustomField Resolved By in Issue with summary 'SF:217188, BMW Auto Load Issue - Not Loading Packages and Colors'. Probably value was in incorrect format
+Cannot add value [ [davespeer] ] to CustomField Resolved By in Issue with summary 'stackman: clean up duplicate cmdlets solutions'. Probably value was in incorrect format
+Cannot add value [ [jamesdaniel] ] to CustomField Resolved By in Issue with summary 'SF:160857 AutoLoad: MSRP Missing in XML'. Probably value was in incorrect format
+Cannot add value [ [timmuir] ] to CustomField Resolved By in Issue with summary 'Non package items being considered packages'. Probably value was in incorrect format
+Cannot add value [ [davespeer] ] to CustomField Resolved By in Issue with summary 'remove old AdStatus endpoint'. Probably value was in incorrect format
+Cannot add value [ [timmuir] ] to CustomField Resolved By in Issue with summary 'Max: Dashboard Broken in INT-B'. Probably value was in incorrect format
+Cannot add value [ [danielhillis] ] to CustomField Resolved By in Issue with summary 'Move -release config settings to machine.config files'. Probably value was in incorrect format
+Cannot add value [ [timmuir] ] to CustomField Resolved By in Issue with summary 'Max Merchandising: Website PDF - 500 Internal Server Error'. Probably value was in incorrect format
+Cannot add value [ [troyhemstreet] ] to CustomField Resolved By in Issue with summary 'Production login information is not being stored to SimpleDB'. Probably value was in incorrect format
+Cannot add value [ [davespeer] ] to CustomField Resolved By in Issue with summary 'upgrade to .net 4.5'. Probably value was in incorrect format
+Cannot add value [ [danielhillis] ] to CustomField Resolved By in Issue with summary 'SF:132803, DealerRater ID not saving'. Probably value was in incorrect format
+Cannot add value [ [shaileshpanchal] ] to CustomField Resolved By in Issue with summary 'SF:150422, ProfitMAX Pricing Proof Point Issue-Market Average'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:153123, Profit MAX Pricing - Market Listings Data Not Accurate'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:154432, Auto Load Issue-- Packages Not Loading - Mercedes Benz'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:157216, Boch Honda - Sold Units Pricing History Request'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:157118, Appraisal Manager Issue-- VIN Decoding Wrong in KBB / Wrong Trims'. Probably value was in incorrect format
+Cannot add value [ [abhishekkumar] ] to CustomField Resolved By in Issue with summary 'Appraisal Redesign:Connect to Twix link on Photos tab of Appraisal redirects to 404 page.'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:161020, Profit Max - Display Issue - Page Goes Blank When Pricing in Max'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:161384, DSR Issue-- Carfax Not Showing for Passport BMW'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:162814, Customer Inquiry-- Who is Approving Ads'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:163010, DBO Inquiry - Who Deleted a Push Appraisal'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:164237, Trims in Profit MAX - SuperCab Cab Type Not Available - 1FTFX1EF6EFA68154'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:165016, Profit Max Issue - Two Sets of Convenience codand Technology Packages'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:164930, AutoLoad Issue-- Packages not Loading - Mercedes Benz'. Probably value was in incorrect format
+Cannot add value [ [timmuir] ] to CustomField Resolved By in Issue with summary 'Max: Double Discount Report - Incorrect Chart Values'. Probably value was in incorrect format
+Cannot add value [ [danielhillis] ] to CustomField Resolved By in Issue with summary 'SF:166987, Matching Market Listings Not Updating with Slider Bar Adjusting Mileage.'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:167565, CARite Indy Honda FirstLook Issue-- No Data in Auction Section'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:168674, NorthPark/Kahlig Group - Reports not working in Command Center'. Probably value was in incorrect format
+Cannot add value [ [danielhillis] ] to CustomField Resolved By in Issue with summary 'SF:168574, Days to Online with Photo Discrepancy - Faulkner Dodge Ram'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:167697, CARFAX No Longer Showing as Ordered After Done so for ALL USED vehicles - Receives Error Message After Pulling'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:167830, Command Center Issue-- Error Message When Clicking Age Buckets'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'Digital Showroom: "Good Deal" Button Redirects to Incorrect VIN'. Probably value was in incorrect format
+Cannot add value [ [timmuir] ] to CustomField Resolved By in Issue with summary 'SF:170750, DSR Not Sending Text To Mobile'. Probably value was in incorrect format
+Cannot add value [ [timmuir] ] to CustomField Resolved By in Issue with summary 'Max: Beta Environment is Very Slow'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:170519, Campaign Pricing Issue-- F-150 Engine Types Incorrect'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:172028, Remove Appraisal - Input in Wrong Store'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:172757, Kool Chevrolet - MAX For Website - Bigger Size Button'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:173576, Mercedes Benz AutoLoad Issue-- Packages and Colors Not Pulling'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:173780, NEW Car Pricing Campaign Issue-- Discounts not Applying to Vehicles'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:176077, Unable to Reach max.firstlook.biz - Page Display Error - Page Won't Display'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:177083, Appraisal Manager- Will Not Let Dealer Select Trim'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:177587, Urgent- Photos Not Showing on DSR via QR Code - Lithia Reno VW'. Probably value was in incorrect format
+Cannot add value [ [abhishekkumar] ] to CustomField Resolved By in Issue with summary 'Chrome incentive Migration: Task to convert all active MSRP campaign to Adjusted Base Price campaign'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:180709, URGENT Luther Page Display Issue-- Appraisal Manager Not Loading Appraisals'. Probably value was in incorrect format
+Cannot add value [ [abhishekkumar] ] to CustomField Resolved By in Issue with summary 'INT-B Appraisal Step-3 : Create Customer offer center Validation is not working.'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:186317, No Color Matching Stock Photos to NEW is NON-Compliant with Honda. -***HEATER***'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'Carbiz Limited SF:181150, Mercedes Benz AutoLoad Issue-- Colors and Packages not Pulling'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:187911, TTM Reporting- Not Updated since 9/13/16- Hendrick-Wide'. Probably value was in incorrect format
+Cannot add value [ [timmuir] ] to CustomField Resolved By in Issue with summary 'SF:188757, IMP / Quick Plannig Not Saving Price - Save & Close Not Functioning'. Probably value was in incorrect format
+Cannot add value [ [danielhillis] ] to CustomField Resolved By in Issue with summary 'Please Ignore Rule 10 Exclusion for Ford'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:189967, Current Inventory Pricing History (EDGE) Inaccurate - 30-39 Bucket Avg Reprice Inaccurate'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:190703, DPP Error Occurring in Appraisal Tool When Trying to Update Mileage'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:192045, Carfax Not Pulling - All Units'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:191524, Email Report Concern- No Longer Receiving Storms on the Horizon Report'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:192484, MAX Issue - No/Low Price Comparisons Alert Showing on Wrong Units'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:194532, NADA values on Pricing screen hidden behind the VHR'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:195211, Appraisal Manager Issue-- Edmunds TMV Button - Vehicle Not Found Error'. Probably value was in incorrect format
+Cannot add value [ [davespeer] ] to CustomField Resolved By in Issue with summary 'Upgrade solutions to VS2015'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:194658, Urgent -- Adjust FL Only Buyer's Guides and Window Stickers - Post 29.0 Release Issue'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:195377, Data Processing Problem - Wholesale Quick Planning In First Look'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:195616, Customer Offer Info. - Email Not Sending'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:197094, Autocheck Error - Unable to Pull Auto Checks - Global'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:195851, Max for Web Scripts Not Working Properly on SSL Website - DealerInspire'. Probably value was in incorrect format
+Cannot add value [ [danwebster] ] to CustomField Resolved By in Issue with summary 'SF:197772, DSR Display Issue - FTC Required Disclaimer Added on CPO vehicles - Lithia Medford CJD'. Probably value was in incorrect format
+Cannot add value [ [michaelmorales] ] to CustomField Resolved By in Issue with summary 'SF:200722, Ron Anderson of Camden - Max Mobile App Not Working - "Whoops Error"'. Probably value was in incorrect format

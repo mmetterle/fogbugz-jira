@@ -1,0 +1,2 @@
+1. Do we need to include area?
+2. Search results not returning all data

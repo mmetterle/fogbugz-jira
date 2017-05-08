@@ -1,0 +1,957 @@
+C:\Users\mmetterle\AppData\Local\Programs\Python\Python36-32\python.exe C:/Users/mmetterle/fogbugzPy/jira_main.py
+******** processing fogbugz data *********
+******** adding fields to jira for issue: *********---FLM-39044------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-39043------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-39063------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-39077------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-39073------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-39064------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38924------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-39021------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38923------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38964------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38992------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-39008------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-31824------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37991------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38978------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37117------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38754------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38996------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38967------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38968------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38966------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38955------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38958------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38934------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38939------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38936------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38932------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38921------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38926------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-33093------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38918------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38906------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38904------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38897------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38876------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38854------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38840------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38813------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38805------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38794------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38790------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38784------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38760------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38771------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38682------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38749------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38745------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38720------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38713------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38706------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38701------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38627------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38685------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38512------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38660------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38650------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37931------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38636------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38487------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38616------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38609------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36217------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38585------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38578------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38579------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38566------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38563------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38564------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-32866------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38554------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38555------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38550------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38546------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38545------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38541------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38535------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38100------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38516------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38509------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38496------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38240------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-34265------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-34825------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36396------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37754------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38466------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37271------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37335------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37337------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37338------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37396------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37409------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38373------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-35652------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36736------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36737------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36947------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37062------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37077------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37724------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38043------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38050------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38103------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38117------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38413------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38443------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38445------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38454------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37589------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38424------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38439------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38449------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38451------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38453------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37515------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38380------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38381------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38384------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38385------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-31360------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-32126------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-32372------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-32373------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-32382------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-32385------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-32475------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-32481------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-32496------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-33029------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-33449------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-33615------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-33640------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-33747------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-33900------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-34009------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-34022------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-34100------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-34106------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-34192------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-34307------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-34340------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-34368------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-34481------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-34602------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-34664------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-34732------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-34737------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-34840------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-34846------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-34898------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-34926------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-34927------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-34929------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-34933------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-34965------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-34977------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-34978------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-34989------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-35009------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-35010------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-35104------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-35121------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-35136------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-35139------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-35318------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-35398------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-35495------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-35744------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-35793------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-35939------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-35955------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-35990------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36015------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36044------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36047------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36048------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36085------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36097------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36116------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36124------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36140------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36163------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36174------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36189------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36197------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36198------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36237------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36240------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36277------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36302------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36361------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36371------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36375------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36386------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36412------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36450------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36472------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36535------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36565------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36635------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36636------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36667------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36717------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36730------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36757------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36765------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36792------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36819------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36824------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36862------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36895------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36902------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36910------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36920------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36949------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36953------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36969------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36970------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36988------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36989------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36990------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37001------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37006------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37007------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37016------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37021------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37023------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37058------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37080------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37089------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37106------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37112------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37146------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37198------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37207------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37220------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37250------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37256------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37266------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37375------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37431------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37451------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37458------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37467------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37545------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37556------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37559------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37580------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37586------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37587------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37602------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37620------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37637------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37654------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37661------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37662------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37663------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37664------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37665------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37666------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37693------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37706------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37716------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37718------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37723------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37729------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37740------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37768------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37769------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37770------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37774------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37790------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37804------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37817------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37825------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37837------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37838------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37869------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37905------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37911------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37916------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37938------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37940------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37953------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37979------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37980------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38009------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38010------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38014------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38029------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38057------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38060------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38077------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38084------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38095------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38154------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38165------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38166------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38167------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38172------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38177------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38185------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38187------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38276------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38288------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38294------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38301------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38313------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38316------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38351------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38353------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38363------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38959------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-39035------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-39002------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-39040------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38937------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-39053------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-39039------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-39041------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38755------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38852------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38327------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38853------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38965------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38705------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38684------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-32484------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38893------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38644------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38862------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38792------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38752------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-33974------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38612------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38562------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38588------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38142------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-34754------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38517------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38193------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38492------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38490------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37975------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37996------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38339------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38422------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-32478------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37747------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38205------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38328------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38379------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38395------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38086------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38348------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-33411------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-34733------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-35051------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36173------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36283------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36338------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36511------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36542------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36760------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36787------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36847------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36850------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36909------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36944------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37013------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37155------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37159------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37328------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37525------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37557------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37569------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37626------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37670------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37756------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37780------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37853------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38054------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-39004------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38956------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38849------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38704------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-39003------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38995------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38953------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38962------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38891------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38838------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38875------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38925------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38860------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38786------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38750------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38576------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-34585------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38718------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38842------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38721------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38726------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38733------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-35146------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38683------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38672------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38643------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38590------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38631------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38561------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-34725------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38611------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38615------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38206------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38613------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38614------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38596------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-32814------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38099------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38551------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38572------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36868------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38505------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38556------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-33262------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-34146------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38111------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38346------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-33232------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-33272------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-33421------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-33427------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-33584------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-34662------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36982------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38350------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-31887------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36279------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37162------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38488------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38440------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38460------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-33178------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36113------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36860------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36852------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38461------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38432------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36382------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37976------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38349------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38403------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36207------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38048------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38326------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38343------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38352------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-38376------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-36443------
+******** reauthenticating jira *********
+******** adding fields to jira for issue: *********---FLM-37345------
+******** reauthenticating jira *********
+Traceback (most recent call last):
+  File "C:\Users\mmetterle\fogbugzPy\utilities\jira_importer.py", line 96, in add_event_fields_to_jira
+    self.jira.add_comment(issue, commentStr)
+  File "C:\Users\mmetterle\AppData\Roaming\Python\Python36\site-packages\jira\client.py", line 108, in wrapper
+    result = func(*arg_list, **kwargs)
+  File "C:\Users\mmetterle\AppData\Roaming\Python\Python36\site-packages\jira\client.py", line 1047, in add_comment
+    url, data=json.dumps(data))
+  File "C:\Users\mmetterle\AppData\Roaming\Python\Python36\site-packages\jira\resilientsession.py", line 153, in post
+    return self.__verb('POST', url, **kwargs)
+  File "C:\Users\mmetterle\AppData\Roaming\Python\Python36\site-packages\jira\resilientsession.py", line 146, in __verb
+    raise_on_error(response, verb=verb, **kwargs)
+  File "C:\Users\mmetterle\AppData\Roaming\Python\Python36\site-packages\jira\resilientsession.py", line 56, in raise_on_error
+    r.status_code, error, r.url, request=request, response=r, **kwargs)
+jira.exceptions.JIRAError: JiraError HTTP 400 url: https://maxdigital.atlassian.net/rest/api/2/issue/FLM-37345/comment
+	text: The entered text is too long. It exceeds the allowed limit of 32767 characters.
+	
+	response headers = {'Server': 'nginx', 'Date': 'Fri, 28 Apr 2017 00:46:04 GMT', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'X-AREQUESTID': '1186x9521x1', 'X-AUSERNAME': 'mmetterle', 'X-ATENANT-ID': 'maxdigital.atlassian.net', 'Cache-Control': 'no-cache, no-store, no-transform', 'X-Content-Type-Options': 'nosniff', 'Set-Cookie': 'JSESSIONID=CC6A9D996FAC3319B39FEDC47FE91C80; Path=/; Secure; HttpOnly'}
+	response text = {"errorMessages":[],"errors":{"comment":"The entered text is too long. It exceeds the allowed limit of 32767 characters."}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:/Users/mmetterle/fogbugzPy/jira_main.py", line 7, in <module>
+    call_utility()
+  File "C:/Users/mmetterle/fogbugzPy/jira_main.py", line 5, in call_utility
+    jira_import.process_fogbugz_data()
+  File "C:\Users\mmetterle\fogbugzPy\utilities\jira_importer.py", line 74, in process_fogbugz_data
+    self.add_event_fields_to_jira(case_id, events)
+  File "C:\Users\mmetterle\fogbugzPy\utilities\jira_importer.py", line 108, in add_event_fields_to_jira
+    errno, strerror = ex.args
+ValueError: too many values to unpack (expected 2)
+
+Process finished with exit code 1

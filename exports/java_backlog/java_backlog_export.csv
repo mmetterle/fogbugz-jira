@@ -1,0 +1,6 @@
+Category,Case,Title,Story Points,Priority,Assigned To,Tags,Milestone,Date Opened,Project,QA Buddy,Opened By,Salesforce Case,Due Date,HotFix,Resolved By,Original Estimate,Current Estimate,Date Resolved,Date Closed,Subcases
+Bug,38773,"SF:215431, 'Days Planned' Not Updating After Planning A Vehicle",5,Medium,V-MAX-Engineers,,Java Backlog,3/15/17 8:52 PM,002:FLM,,Michael Morales,215431,,0,,0,0,,,
+Internal Task,38568,Create Firstlook Java Ubuntu VM,0,Medium,Mike Metterle,,Java Backlog,2/13/17 5:26 PM,002:FLM,,Mike Metterle,,,0,,0,0,,,
+Bug,38515,"SF:207387, Inaccurate Stocking Report - 2016 Chevrolet Equinox's",13,Medium,V-MAX-Engineers,,Java Backlog,2/2/17 8:29 PM,002:FLM,,Michael Morales,207387,,0,,0,0,,,
+Bug,36563,Hibernate Upgrade: Changing Market places on Online Buying Page gives error in console,8,Medium,V-MAX-Engineers,java,Java Backlog,5/9/16 4:31 PM,002:FLM,,Advait Gupte,,,0,,0,0,,,
+Bug,36564,Hibernate Upgrade: Changing Mileage or distance on Online Buying Page gives error in console,8,Medium,V-MAX-Engineers,java,Java Backlog,5/9/16 4:33 PM,002:FLM,,Advait Gupte,,,0,,0,0,,,
